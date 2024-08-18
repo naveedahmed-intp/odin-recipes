@@ -1,0 +1,30 @@
+h1 {
+    background-color: #CADCFC;
+    color: #006078;
+    padding: 16px;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 0.5em;
+}
+
+li {
+    font-size: larger;
+    border: 5px;
+    border-radius: 0.5em;
+    padding: 16px;
+    list-style-type: circle;
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+    border-radius: 0.5em;
+  }
+
+body {
+    background: #006078;
+  }
+
